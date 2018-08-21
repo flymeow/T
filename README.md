@@ -1,8 +1,8 @@
-# tcustomer
+# a demo
 
-A new Flutter project.
+## step
 
-## Getting Started
+iphone
+$ open -a Simulator
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+![step](doc/doc.gif)
